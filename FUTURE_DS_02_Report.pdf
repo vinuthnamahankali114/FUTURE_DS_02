@@ -1,0 +1,42 @@
+# FUTURE_DS_02 - Customer Retention & Churn Analysis
+
+## Project Overview
+
+This project analyzes customer churn and retention patterns for a subscription-based business. The objective was to identify churn drivers, understand customer behavior, and provide recommendations to improve customer retention.
+
+## Tools Used
+
+* Google Sheets
+* Pivot Tables
+* Charts & Visualizations
+
+## KPIs Analyzed
+
+* Total Customers
+* Churn Customers
+* Retained Customers
+* Churn Rate
+
+## Analysis Performed
+
+* Churn by Contract Type
+* Churn by Payment Method
+* Average Monthly Charges by Churn Status
+
+## Key Insights
+
+1. Month-to-month contract customers showed the highest churn.
+2. Customers using electronic check payment methods churned more frequently.
+3. Customers with higher monthly charges were more likely to leave.
+4. Long-term contracts improved customer retention.
+
+## Recommendations
+
+1. Offer discounts for yearly subscription plans.
+2. Improve customer support for high-risk customers.
+3. Introduce loyalty rewards and retention offers.
+4. Reduce pricing pressure through bundled plans.
+
+## Outcome
+
+This project enhanced my skills in customer retention analysis, KPI reporting, dashboard creation, and business insight generation using Google Sheets.
